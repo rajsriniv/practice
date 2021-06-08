@@ -1,4 +1,4 @@
-package raj.practice.queue.config;
+package raj.practice.list.config;
 
 import java.util.Objects;
 

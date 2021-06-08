@@ -1,14 +1,14 @@
-package raj.practice.queue;
+package raj.practice.list;
 
-import raj.practice.queue.config.Data;
-import raj.practice.queue.config.DataComparator;
+import raj.practice.list.config.Data;
+import raj.practice.list.config.DataComparator;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Practice1 {
+public class FindNMaxElements {
 
     public static List<Integer> findNMaxCount(List<Integer> input, int n) {
         if (input == null) {
