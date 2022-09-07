@@ -1,3 +1,5 @@
+package raj.practice.arrays;
+
 class TribonacciNumbers {
     
     private int fixSum(int n) {
