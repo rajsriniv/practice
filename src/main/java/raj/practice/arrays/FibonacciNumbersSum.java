@@ -1,4 +1,6 @@
-class FibonacciNumbersSum {
+package raj.practice.arrays;
+
+FibonacciNumbersSum {
     public int fib(int n) {
         
         int numbers[] = new int[n];
