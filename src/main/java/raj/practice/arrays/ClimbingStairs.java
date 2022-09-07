@@ -1,3 +1,5 @@
+package raj.practice.arrays;
+
 class ClimbingStairs {
     public int climbStairs(int n) {
         if (n == 0) {
